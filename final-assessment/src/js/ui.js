@@ -1,3 +1,10 @@
+/**
+ *      Name: Jay Ashishbhai Patel
+ *      Student ID: 154925192
+ *      Email: japatel31@myseneca.ca
+ *      website: https://jaypatel1331.github.io/final-assessment/src/index.html
+ */
+
 // Add the text to the <span>...<span> element in the element with id=observation-title
 function updateTitle(text) {
   const title = document.querySelector("#observation-title > span");

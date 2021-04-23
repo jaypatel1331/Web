@@ -1,3 +1,10 @@
+/**
+ *      Name: Jay Ashishbhai Patel
+ *      Student ID: 154925192
+ *      Email: japatel31@myseneca.ca
+ *      website: https://jaypatel1331.github.io/final-assessment/src/index.html
+ */
+
 // An instance of our SimpleMap, created below when the window loads.
 let map;
 

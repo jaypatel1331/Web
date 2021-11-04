@@ -1,10 +1,3 @@
-/**
- *      Name: Jay Ashishbhai Patel
- *      Student ID: 154925192
- *      Email: japatel31@myseneca.ca
- *      website: https://jaypatel1331.github.io/final-assessment/src/index.html
- */
-
 // An iNaturalist observation Object contains a tremendous amount of data, much of
 // it not useful in our current program. We need to transform these Observation
 // objects into a new format that matches our needs.

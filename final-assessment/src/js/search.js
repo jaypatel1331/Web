@@ -1,10 +1,3 @@
-/**
- *      Name: Jay Ashishbhai Patel
- *      Student ID: 154925192
- *      Email: japatel31@myseneca.ca
- *      website: https://jaypatel1331.github.io/final-assessment/src/index.html
- */
-
 // Lookup geolocation info from OpenStreetMaps, using their
 // https://nominatim.openstreetmap.org/ui/search.html API
 function lookupAddress(address, callback) {
